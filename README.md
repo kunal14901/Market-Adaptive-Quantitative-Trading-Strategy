@@ -107,8 +107,7 @@ from datetime import datetime, timedelta
 
 ### 🏗️ Project Structure
 ```
-📁 momentum-strategy/
-├── 📓 Strategy.ipynb              # Main strategy implementation 
+├── 📓 Momentum_Strategy.ipynb              # Main strategy implementation 
 ├── 🖼️ images/                    # Performance charts
 └── 📝 README.md                  # Documentation
 ```
