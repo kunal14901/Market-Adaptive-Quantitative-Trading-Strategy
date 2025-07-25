@@ -2,7 +2,6 @@
 **Cross-market quantitative momentum strategy for S&P 500 and NIFTY 50 with robust backtesting (2022-2025)**  
 *Achieved 180% returns (S&P 500) and 196% returns (NIFTY 50) with strong risk-adjusted performance*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repo/blob/main/Strategy.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -109,13 +108,7 @@ from datetime import datetime, timedelta
 ### 🏗️ Project Structure
 ```
 📁 momentum-strategy/
-├── 📓 Strategy.ipynb              # Main strategy implementation
-├── 📊 data_downloader.py          # Yahoo Finance data fetcher  
-├── 📈 backtest_engine.py          # Backtesting framework
-├── 📉 feature_engineering.py     # Technical indicators
-├── 📋 results/                   # Backtest outputs
-│   ├── sp500_results.csv
-│   └── nifty_results.csv
+├── 📓 Strategy.ipynb              # Main strategy implementation 
 ├── 🖼️ images/                    # Performance charts
 └── 📝 README.md                  # Documentation
 ```
