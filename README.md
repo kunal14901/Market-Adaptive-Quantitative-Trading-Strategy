@@ -198,8 +198,6 @@ momentum_threshold = 0.015      # Daily return filter
 Final Year Student, IIT Kharagpur  
 📧 [iknir1234@gmail.com](mailto:iknir1234@gmail.com)  
 📞 +91 7732848504  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-🐙 [GitHub](https://github.com/yourusername)
 
 ---
 
