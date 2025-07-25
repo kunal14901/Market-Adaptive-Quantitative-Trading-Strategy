@@ -1,0 +1,1 @@
+# Market-Adaptive-Quantitative-Trading-Strategy
