@@ -42,11 +42,11 @@ A **daily momentum trading strategy** that identifies high-probability short-ter
 ## 📊 Performance Visualizations
 
 ### S&P 500 Strategy Performance
-![S&P 500 Equity Curve](images/snp.png)  
+![S&P 500 Equity Curve](snp.png)  
 *Capital progression showing strong recovery post-2022 bear market with controlled drawdowns*
 
 ### NIFTY 50 Strategy Performance  
-![NIFTY 50 Equity Curve](images/nifty.png)  
+![NIFTY 50 Equity Curve](nifty.png)  
 *Consistent growth with superior risk management - outperformed during market stress*
 
 ---
